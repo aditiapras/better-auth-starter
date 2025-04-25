@@ -1,5 +1,5 @@
 # Better Auth Starter Kit for Nextjs
-![Logo]([https://www.better-auth.com/_next/static/media/better-auth-logo-light.c58bb6b7.png](https://raw.githubusercontent.com/better-auth/better-auth/main/banner.png))
+![Logo](/banner.png)
 
 A Next.js auth starter kit with Custom Sever. You can use this template to deploy your app to ***cPanel***.
 
